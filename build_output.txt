@@ -1,0 +1,21 @@
+﻿Resolving dependencies...
+Downloading packages...
+  code_assets 1.2.1 (2.1.0 available)
+  hooks 2.0.2 (2.2.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  objective_c 9.5.0 (9.6.0 available)
+  record_use 0.6.0 (1.1.1 available)
+  screenshot 2.5.0 (3.0.0 available)
+  test_api 0.7.12 (0.7.14 available)
+  vector_math 2.4.0 (2.4.2 available)
+Got dependencies!
+9 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+flutter : Unable to find suitable Visual Studio toolchain. Please run `flutter doctor` for more details.
+At line:1 char:1
++ flutter build windows --debug 2>&1 | Out-File -FilePath build_output. ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Unable to find ...r more details.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
